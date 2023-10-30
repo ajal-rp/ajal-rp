@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ajal-rp
+- 👀 I’m interested in Django,Python,React
+- 🌱 I’m currently learning ...React , ML ,AI
