@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ajal-rp
-- 👀 I’m interested in Django,Python,React
+- 👀 I’m interested in Django,Python,React, Angular
